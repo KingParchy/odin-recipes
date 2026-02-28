@@ -1,3 +1,3 @@
 # odin-recipes
 
-Basic recipe website using HTML and CSS.
+Basic recipe website using HTML.
